@@ -50,6 +50,7 @@ Next, navigate to the project directory in the terminal and run the following co
 streamlit run fuzzy_project_ui.py
 ```
 
+
 The system interface will appear, and you can start using it fully.
 
 ### Expected Results
